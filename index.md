@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Research Projects
 
-[Scale insect evolution](/sample_page)
+[Scale insect evolution - Bayesian analysis](/sample_page)
 <img src="images/divergence_timeanalysis.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Side Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,6 +27,10 @@
 
 ---
 
+### Artwork
+
+- [Bugs to love](http://example.com/)
+- [Banane & Camembert](http://example.com/)
 
 
 
