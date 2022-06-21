@@ -4,7 +4,7 @@
 
 ### Research Projects
 
-[Scale insect evolution - Bayesian analysis](/sample_page)
+[Scale insect evolution - Bayesian analysis](https://github.com/thecochenille/Coccomorpha-divergence-time/blob/master/README.md)
 <img src="images/divergence_timeanalysis.jpg?raw=true"/>
 
 ---
