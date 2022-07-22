@@ -5,9 +5,6 @@
 ### Research Projects
 
 
-[Size and nutritional plasticity in flies - Looking at genetic variation and Genome Wide Association](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Accessory chromosomes in scale insects - A de novo genome analysis](https://github.com/RossLab/B_viburni)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,19 +13,20 @@
 [Scale insect evolution - Bayesian analysis](https://github.com/thecochenille/Coccomorpha-divergence-time/blob/master/README.md)
 <img src="images/divergence_timeanalysis.jpg?raw=true"/>
 
-
+---
+[Size and nutritional plasticity in flies - Genetic variation and Genome Wide Association](https://www.biorxiv.org/content/10.1101/2021.06.16.448738v1.full/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Side Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+Coming soon
 
 ---
 
 ### Artwork
 
-- [Bugs to love](http://example.com/)
-- [Banane & Camembert](http://example.com/)
+- Insect watercolor [Bugs to love](https://www.instagram.com/bugstolove/?hl=en)
+- Linocut prints [Banane & Camembert (in French)](https://bananecamembert.wordpress.com/projets-dillustration//)
 
 
 
