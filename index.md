@@ -17,6 +17,8 @@
 [Size and nutritional plasticity in flies - Genetic variation and Genome Wide Association](https://www.biorxiv.org/content/10.1101/2021.06.16.448738v1.full/)
 <img src="images/SSP_variation.jpg?raw=true"/>
 
+---
+
 ### Side Projects
 
 Coming soon
