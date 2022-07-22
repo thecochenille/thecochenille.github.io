@@ -7,7 +7,7 @@
 
 ---
 [Accessory chromosomes in scale insects - A de novo genome analysis](https://github.com/RossLab/B_viburni)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fig4_for_main_text_bchr.jpg?raw=true"/>
 
 ---
 [Scale insect evolution - Bayesian analysis](https://github.com/thecochenille/Coccomorpha-divergence-time/blob/master/README.md)
@@ -15,7 +15,7 @@
 
 ---
 [Size and nutritional plasticity in flies - Genetic variation and Genome Wide Association](https://www.biorxiv.org/content/10.1101/2021.06.16.448738v1.full/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SSP_variation.jpg?raw=true"/>
 
 ### Side Projects
 
