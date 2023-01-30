@@ -1,16 +1,11 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Isabelle Vea:
+  name: Isabelle Vea
+  picture: /images/imv_photo.png
+  twitter: "@thecochenille"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/thecochenille
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
