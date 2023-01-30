@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Isabelle Vea Portfolio"
 description: "A scientist playing with data"
-baseurl: "/thecochenille.github.io"# the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/thecochenille.github.io/"# the subpath of your site, e.g. "/blog"
+url: "https://thecochenille.github.io/"
 logo: #"/images/imv_photo.png"
 date_format: "%B %-d, %Y"
 read_time: true
