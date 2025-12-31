@@ -16,8 +16,7 @@ To ensure depth and architectural rigor, I am limiting my theoretical focus to t
 - **Designing Machine Learning Systems by Chip Huyen:** For mastering the technical trade-offs in data engineering, model selection, and system reliability.
 - **Humanizing AI Strategy by Tienkai Feng:** For ensuring the system remains user-centric and respects the nuances of family heritage.
 
-**My Goal:** For every major building block in the Family Heritage Platform, I will publish a "Decision Record" post on this blog explaining how concepts from these texts influenced the design.
-
+**The Process:** For every major building block in the Family Heritage Platform, I will publish a "Decision Record" post on this blog explaining how concepts from these texts influenced the design.
 
 ---
 ## Recent Lab Logs
