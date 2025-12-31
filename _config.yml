@@ -1,0 +1,7 @@
+title: "The Quiet Build"
+author: "Isabelle Vea"
+description: "A focused archive of MLOps architecture and foundational system design. Building one robust project at a time with intentionality."
+theme: minima
+
+header_pages:
+  - about.md
