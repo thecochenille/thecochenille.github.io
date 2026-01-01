@@ -11,7 +11,7 @@ I believe in:
 * **Quality over Hype:** Moving past the "newest" tool to understand the underlying architecture.
 * **Intentionality:** Building one robust project at a time to ensure depth and durability.
 * **Robustness:** Creating systems that are sustainable, maintainable, and well-documented.
-* **Applied Learning:** I believe the best way to master complex systems is to build them. This archive is a transparent record of that education—documenting the gaps in my knowledge as I work to bridge them.
+* **Applied Learning:** I believe the best way to master complex systems is to build them. This archive is a transparent record of that education, where I will document newly acquired knowledge as I work to bridge them with my current experience.
 
 ## 2026 Focus
 I am taking a deep dive into ML Systems Design and applying those principles to a Family Heritage MLOps Platform. This project uses a serverless GCP stack to digitize and archive family history, creating an intelligent interface that allows for deep exploration and discovery across historical records.
